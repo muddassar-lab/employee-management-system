@@ -6,5 +6,5 @@ export default function Welcome({
 	laravelVersion,
 	phpVersion,
 }: PageProps<{ laravelVersion: string; phpVersion: string }>) {
-	return <>hy</>;
+	return <>hy from laravel</>;
 }
