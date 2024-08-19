@@ -33,9 +33,12 @@
 		"@million/lint": "^1.0.0-rc.84",
 		"class-variance-authority": "^0.7.0",
 		"clsx": "^2.1.1",
+		"dayjs": "^1.11.12",
 		"lucide-react": "^0.428.0",
+		"react-hook-form": "^7.52.2",
 		"tailwind-merge": "^2.5.2",
-		"tailwindcss-animate": "^1.0.7"
+		"tailwindcss-animate": "^1.0.7",
+		"zustand": "^4.5.5"
 	},
 	"lint-staged": {
 		"*.{js,ts,jsx,tsx,json}": ["biome check --write"],
